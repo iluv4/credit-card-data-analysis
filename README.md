@@ -1,4 +1,4 @@
-# creditCard
+# creditCardDataAnalysis
 <br>
 프로젝트 진행과정 링크
 <br>
