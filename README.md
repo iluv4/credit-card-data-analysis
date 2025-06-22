@@ -31,9 +31,10 @@
 
 - **연령대 분포**: 40대가 28.81%로 가장 많고, 70대 이상이 4.99%로 가장 적음1.
 - **성별 특성**: 여성 평균 대출 6,377만원, 남성 3,717만원. 여성 연체율(0.40%)이 남성(0.57%)보다 낮음. 국내외 연구에서도 여성의 연체율이 더 낮음(스페인 은행 데이터 기준 약 15% 낮음)1.
-- **데이터 불균형**: 연체(1) 클래스 데이터 부족으로 불균형 문제 발생1.
-<img src="https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/8561b206758128185d82ad9bf89c19ae/3ed3b81a-9b63-4a70-9bf4-e098047a877f/ee1bc723.png" width="300"/>
+- **데이터 불균형**: 연체(1) 클래스 데이터 부족으로 불균형 문제 발생1.<img src="https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/8561b206758128185d82ad9bf89c19ae/3ed3b81a-9b63-4a70-9bf4-e098047a877f/ee1bc723.png" width="300"/>
+
 ![image](https://github.com/user-attachments/assets/5a4435ae-dc63-46d3-b015-dc01ab611dd9)
+
 
 ---
 
@@ -69,4 +70,4 @@
 
 [블루문 드림_한현민_발표자료 (1).pdf](attachment:5e7d74c5-6ad7-4cfd-837c-c1bddeb00ea1:블루문_드림_한현민_발표자료_(1).pdf)
 
-[https://cloudy-nut-130.notion.site/2-2-1fe618ff22dd80cea8fdd7305c49a8ff?pvs=74](https://www.notion.so/2-2-1fe618ff22dd80cea8fdd7305c49a8ff?pvs=21)
+[진행과정](https://cloudy-nut-130.notion.site/2-2-1fe618ff22dd80cea8fdd7305c49a8ff?pvs=74)
